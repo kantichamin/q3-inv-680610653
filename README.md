@@ -1,19 +1,21 @@
 # Quiz #3 - React
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : Kanticha Chaichana
 
-รหัสนักศึกษา :
+รหัสนักศึกษา : 680610653
 
 หมายเหตุ: นศ. ไม่ต้อง deploy app บน vercel
 
 ---
 
 ใน Quiz #3 นี้จะเป็นการทดสอบความเข้าใจในเนื้อหาต่อไปนี้
+
 - `React component` : การจัดสร้างและการจัดวาง component
 - `Component library` : การใช้ shadcn/ui component ร่วมกับ React app
 - `Global state management` : การใช้ Zustand ในการสร้างและจัดการ Global state ของ React app
 
 สิ่งที่ไม่ต้องทำ ได้แก่
+
 - `API` : App นี้ไม่มีการเรียกใช้งาน API ใดๆ
 - `Database` : การเก็บข้อมูลหลักของ App นี้จะอาศัย Global state และ LocalStorage ของบราวเซอร์
 
@@ -25,6 +27,7 @@
 pnpm install
 pnpm run dev
 ```
+
 ---
 
 คำอธิบายเกี่ยวกับไฟล์ในโปรเจค
@@ -50,5 +53,5 @@ pnpm run dev
 - `Tabs`
 - Icon component จาก `lucide-react`
 
-นศ. สามารถเลือกใช้ 
+นศ. สามารถเลือกใช้
 ดูตัวอย่างการใช้งานได้ที่ [shadcn/ui component](https://ui.shadcn.com/docs/components)
